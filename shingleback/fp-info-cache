@@ -1,4 +1,4 @@
-20518777501298473
+20520477998704376
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -42125,6 +42125,13 @@ lan magnetics transformer
 0
 14
 13
+Connector_RJ
+RJ45_gnawman
+
+
+0
+8
+0
 Connector_SATA_SAS
 SAS-mini_TEConnectivity_1888174_Vertical
 36pin mini SAS connector, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English
@@ -77264,7 +77271,7 @@ SW_RKJXV122400R
 
 0
 14
-14
+6
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
