@@ -1,5 +1,5 @@
 ## todo
 
 ### expansion packs
- -joystick
- -sliders
+- joystick
+- sliders
