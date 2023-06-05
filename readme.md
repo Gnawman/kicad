@@ -1,5 +1,5 @@
-# readme
-
 ## todo
 
-### shingleback
+### expansion packs
+ -joystick
+ -sliders
