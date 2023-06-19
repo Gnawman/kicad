@@ -1,0 +1,22 @@
+(footprint "Momentary_Button" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr through_hole)
+  (fp_text reference "button" (at -1.75 7.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp baf0f60a-42fb-4fe4-adb3-81bc3a7c50f5)
+  )
+  (fp_text value "Momentary_Button" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b6c1bef2-0b7f-465c-8886-2ff2539c5544)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 2c54c16a-c9ac-4ae5-9c18-857d3e896bf5)
+  )
+  (fp_rect (start -4.25 9.5) (end 0.25 5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 82b284eb-fbea-4e8f-be9b-5ef252f26126))
+  (pad "1" thru_hole oval (at 1.25 5 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 71256681-d013-44c3-a217-211288d79c92))
+  (pad "1" thru_hole oval (at -5.25 5 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp e61a02a0-2569-4a2c-82dc-d9f676da7f4e))
+  (pad "2" thru_hole oval (at -5.25 9.5 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 0dc573cc-4736-4fed-9a35-dad02f1e6c04))
+  (pad "2" thru_hole oval (at 1.25 9.5 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 49c9ccf3-2fb8-4ea2-bb5e-d55c33b34703))
+)
